@@ -1,0 +1,8 @@
+{
+    "name": "TiendaEnLinea",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "COPRE04",
+    "contributors": [],
+    "dependencies": {}
+}
